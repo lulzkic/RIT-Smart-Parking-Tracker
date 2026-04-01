@@ -12,7 +12,6 @@ from datetime import datetime, timedelta
 from typing import Optional
 
 
-
 # ── Config ───────────────────────────────────────────────────────────────────
 DB_PATH          = "rit_parking.db"  # SQLite file (auto-created)
 DEFAULT_LOT      = "S"               # pre-filled lot name shown in the menu
